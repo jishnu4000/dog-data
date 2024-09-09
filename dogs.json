@@ -1,0 +1,56 @@
+[
+  {
+    "breedId": "B101",
+    "breedName": "Golden Retriever",
+    "description": "Friendly",
+    "size": "Large",
+    "lifespan": "10-12 years",
+    "origin": "Scotland",
+    "imageUrl": "http://dogurl.com"
+  },
+  {
+    "breedId": "B102",
+    "breedName": "Labrador",
+    "description": "Friendly",
+    "size": "Medium",
+    "lifespan": "10-15 years",
+    "origin": "Scotland",
+    "imageUrl": "http://dogurl.com"
+  },
+  {
+    "breedId": "B103",
+    "breedName": "Pygmalion",
+    "description": "Friendly",
+    "size": "Small",
+    "lifespan": "10-12 years",
+    "origin": "Denmark",
+    "imageUrl": "http://dogurl.com"
+  },
+  {
+    "breedId": "B104",
+    "breedName": "Pug",
+    "description": "Cute",
+    "size": "Large",
+    "lifespan": "10-12 years",
+    "origin": "America",
+    "imageUrl": "http://dogurl.com"
+  },
+  {
+    "breedId": "B105",
+    "breedName": "German Sheperd",
+    "description": "Amazing",
+    "size": "Large",
+    "lifespan": "10-12 years",
+    "origin": "Gemany",
+    "imageUrl": "http://dogurl.com"
+  },
+  {
+    "breedId": "B106",
+    "breedName": "Shiba Inu",
+    "description": "Cool",
+    "size": "Medium",
+    "lifespan": "10-12 years",
+    "origin": "Japan",
+    "imageUrl": "http://dogurl.com"
+  }
+]
